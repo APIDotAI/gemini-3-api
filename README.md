@@ -2,7 +2,7 @@
 
 Build with the Gemini 3 Series API using APIDot: cURL, Node.js, request variants, pricing, and production notes in one GitHub repo.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/gemini-3) | [Model Page](https://apidot.ai/models/gemini-3) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/gemini-3) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/gemini-3) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## Why this repo exists
 
